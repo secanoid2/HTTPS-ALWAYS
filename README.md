@@ -1,4 +1,6 @@
-***This extension is not regularly updated and should be used at your own risk.***
+***This extension is a developer minimal extension for HTTPS only browsing*** 
+
+***As such, it is not necessarily updated and should be used at your own risk.***
 
 HTTP Blocker Extension: HTTPS-Only Browsing
 Overview
