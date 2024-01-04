@@ -37,4 +37,4 @@ This extension is released under the MIT License.
 Created by: 
 Angel Anthony Chong
 https://www.linkedin.com/in/se2
-https://martechforge.com
+https://www.martechforge.com
