@@ -1,6 +1,10 @@
+***This extension is not regularly updated and should be used at your own risk.***
+
 HTTP Blocker Extension: HTTPS-Only Browsing
 Overview
 The Blocker Extension enhances your browsing security by enforcing HTTPS-only connections. This extension utilizes the DeclarativeNetRequest API to block all HTTP requests, ensuring a safer online experience.
+
+
 
 Features
 HTTPS-Only Browsing: Blocks all HTTP requests for a more secure and private browsing environment.
@@ -27,3 +31,8 @@ Contributions are welcome! If you have suggestions or want to contribute, fork t
 
 License
 This extension is released under the MIT License.
+
+Created by: 
+Angel Anthony Chong
+https://www.linkedin.com/in/se2
+https://martechforge.com
