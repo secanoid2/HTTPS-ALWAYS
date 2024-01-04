@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "HTTPS Only",
+  "name": "HTTPS Always - HTTP Blocker Extension",
   "version": "1.0",
   "description": "Blocks all requests using DeclarativeNetRequest",
   "permissions": ["storage", "declarativeNetRequest"],
