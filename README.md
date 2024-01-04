@@ -1,4 +1,4 @@
-React Blocker Extension: HTTPS-Only Browsing
+HTTP Blocker Extension: HTTPS-Only Browsing
 Overview
 The React Blocker Extension enhances your browsing security by enforcing HTTPS-only connections. This extension utilizes the DeclarativeNetRequest API to block all HTTP requests, ensuring a safer online experience.
 
