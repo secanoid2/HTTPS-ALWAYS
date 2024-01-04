@@ -7,7 +7,7 @@
   "declarative_net_request": {
     "rule_resources": [
       {
-        "id": "1",
+        "id": "ruleset_1",
         "enabled": true,
         "path": "rules.json"
       }
