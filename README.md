@@ -4,15 +4,15 @@
 
 ## Temporarily Disabling the Extension
 
-If you ever need to temporarily allow a network request through as HTTP, you can disable the React Blocker Extension for a specific browsing session. Follow these steps:
+If you ever need to temporarily allow a network request through as HTTP, you can disable the HTTPS Always Extension for a specific browsing session. Follow these steps:
 
 1. **Access Chrome Extensions:**
    - Click on the puzzle icon in the Chrome toolbar.
    - Select "Manage extensions."
 
-2. **Disable React Blocker:**
-   - Locate the React Blocker Extension in the extensions list.
-   - Toggle the switch next to "React Blocker" to disable the extension temporarily.
+2. **Disable HTTPS Always:**
+   - Locate the HTTPS Always Extension in the extensions list.
+   - Toggle the switch next to "HTTPS Always" to disable the extension temporarily.
 
 3. **Allow HTTP Requests:**
    - Perform your necessary tasks that require HTTP connections.
@@ -25,9 +25,9 @@ Note: Disabling the extension temporarily reduces the security benefits it provi
 
 --- 
 
-HTTP Blocker Extension: HTTPS-Only Browsing
+HTTPS Always - HTTP Blocker Extension: HTTPS-Only Browsing
 Overview
-The Blocker Extension enhances your browsing security by enforcing HTTPS-only connections. This extension utilizes the DeclarativeNetRequest API to block all HTTP requests, ensuring a safer online experience.
+The HTTPS Always Extension enhances your browsing security by enforcing HTTPS-only connections. This extension utilizes the DeclarativeNetRequest API to block all HTTP requests, ensuring a safer online experience.
 
 
 
@@ -44,11 +44,6 @@ Load the Extension:
 Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" in the top right corner.
 Click "Load unpacked" and select the extracted extension folder.
-Configure HTTPS-Only Mode:
-
-Right-click on the extension icon and select "Options."
-Adjust settings as needed.
-Enjoy Secure Browsing:
 
 Start browsing with enhanced security as all HTTP requests are blocked.
 Contributing
@@ -59,5 +54,6 @@ This extension is released under the MIT License.
 
 Created by: 
 Angel Anthony Chong
+acho.techsolutions@gmail.com
 https://www.linkedin.com/in/se2
 https://www.martechforge.com
