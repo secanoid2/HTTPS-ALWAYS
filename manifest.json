@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "HTTPS Always - HTTP Blocker Extension",
   "version": "1.0",
-  "description": "Blocks all requests using DeclarativeNetRequest",
+  "description": "A Chrome Extension that Blocks all requests using DeclarativeNetRequest",
   "permissions": ["storage", "declarativeNetRequest"],
   "declarative_net_request": {
     "rule_resources": [
