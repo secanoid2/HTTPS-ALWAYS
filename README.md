@@ -2,7 +2,28 @@
 
 ***As such, it is not necessarily updated and should be used at your own risk.***
 
-Disable the extension temporarily to bypass a blocked HTTP page/request.  
+## Temporarily Disabling the Extension
+
+If you ever need to temporarily allow a network request through as HTTP, you can disable the React Blocker Extension for a specific browsing session. Follow these steps:
+
+1. **Access Chrome Extensions:**
+   - Click on the puzzle icon in the Chrome toolbar.
+   - Select "Manage extensions."
+
+2. **Disable React Blocker:**
+   - Locate the React Blocker Extension in the extensions list.
+   - Toggle the switch next to "React Blocker" to disable the extension temporarily.
+
+3. **Allow HTTP Requests:**
+   - Perform your necessary tasks that require HTTP connections.
+   - Keep in mind that once you close the browser or start a new session, the extension will be re-enabled.
+
+4. **Re-enable the Extension:**
+   - To re-enable the extension, follow the same steps but toggle the switch back to the enabled position.
+
+Note: Disabling the extension temporarily reduces the security benefits it provides. Exercise caution and re-enable the extension promptly after completing your tasks.
+
+--- 
 
 HTTP Blocker Extension: HTTPS-Only Browsing
 Overview
